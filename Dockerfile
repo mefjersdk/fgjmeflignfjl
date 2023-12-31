@@ -1,7 +1,7 @@
 FROM alpine:edge
 
-ARG AUUID="eff1d791-dd4e-4b2a-afe5-f10284353395"
-ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page243/tinker.zip"
+ARG AUUID="915872dd-70cd-4667-81d4-5677687eaca5"
+ARG CADDYIndexPage="https://www.free-css.com/assets/files/free-css-templates/download/page26/evergreen.zip"
 ARG ParameterSSENCYPT="chacha20-ietf-poly1305"
 ARG PORT=8080
 
